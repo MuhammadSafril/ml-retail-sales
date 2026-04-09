@@ -1,7 +1,7 @@
 # Prediksi Penjualan Retail (Time Series)
 
 Project Machine Learning menggunakan:
-- Linear Regression
+- Hist Gradient Boosting
 - Decision Tree
 - Random Forest
 
